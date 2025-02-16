@@ -13,6 +13,10 @@ class PhoneNumberParser {
         this.defaultCountry = 'US'; // Default country for parsing
     }
 
+
+
+    
+
     /**
      * Parses and validates a phone number, ensuring it has a country code.
      * @param {string} phoneNumber - The input phone number.
